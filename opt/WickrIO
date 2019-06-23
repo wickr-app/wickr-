@@ -3,3 +3,4 @@ cd /opt
 mkdir WickrIO
 docker pull wickr/bot-cloud:latest
 docker run -v /opt/WickrIO:/opt/WickrIO -ti wickr/bot-cloud:latest
+Add
